@@ -1,6 +1,6 @@
 # Multimodal Learning for Low-Resource Languages: A Survey
 
-This repository contains a curated collection of research papers focusing on multimodal approaches for low-resource languages. The collection spans from 2018 to 2024, showcasing the evolution and advancement of techniques in this field.
+This repository contains a curated collection of research papers focusing on multimodal approaches for low-resource languages. The collection spans from 2018 to 2025, showcasing the evolution and advancement of techniques in this field.
 
 ## Overview
 
@@ -18,8 +18,8 @@ The papers in this collection cover various aspects of multimodal approaches for
 The collection includes papers covering multiple languages:
 - Hindi (26 papers)
 - Arabic (18 papers)
-- Bengali, Malayalam (16 papers each)
-- Tamil (11 papers)
+- Bengali, Malayalam (17 papers each)
+- Tamil (12 papers)
 - Amharic (9 papers)
 - Hausa (8 papers)
 - Assamese, Urdu, Yoruba (7 papers each)
@@ -27,7 +27,7 @@ The collection includes papers covering multiple languages:
 - Kazakh, Korean, Uzbek (4 papers each)
 - Bulgarian, Igbo, Lao, Mongolian, Persian, Sinhala, Turkish (3 papers each)
 - Buginese, Hebrew, Indonesian, Marathi, Sanskrit, Sundanese, Swahili, Tagalog, Ukrainian (2 papers each)
-- Armenian, Azerbaijani, Belarusian, Bemba, Bosnian, Cantonese, Cebuano, Czech, Darija, Egyptian, Egyptian Arabic, Georgian, Greek, Haitian Creole, Halh Mongolian, Irish, Kamba, Kannada, Latin Cuengh, Luo, Malagasy, Malay, Maori, Mauritanian, Mongolic, Moroccan, Norwegian, Occitan, Palestinian, Polish, SEA languages, Saudi, Serbian, Swedish, Tajik, Umbundu, Waray-Waray, Xhosa, Yemeni, Zulu (1 papers each)
+- Armenian, Azerbaijani, Belarusian, Bemba, Bosnian, Cantonese, Cebuano, Czech, Darija, Egyptian, Egyptian Arabic, Georgian, Greek, Haitian Creole, Halh Mongolian, Irish, Kamba, Kannada, Latin Cuengh, Luo, Malagasy, Malay, Maori, Mauritanian, Mongolic, Moroccan, Norwegian, Occitan, Oriya, Palestinian, Polish, SEA languages, Saudi, Serbian, Swedish, Tajik, Umbundu, Waray-Waray, Xhosa, Yemeni, Zulu (1 papers each)
 
 ## Categories
 
@@ -88,6 +88,8 @@ Papers on dataset creation and curation:
 | 26 | Improved Visually Prompted Keyword Localisation in Real Low-Resource Settings | 2024 | English, Yoruba | V, T | [Link](https://arxiv.org/pdf/2409.06013) |
 | 27 | CreoleVal: Multilingual Multitask Benchmarks for Creoles | 2024 | Multiple Creole languages | V, T | [Link](https://arxiv.org/html/2310.19567v3) |
 | 28 | Towards a Multimodal WordNet for Language Learning in Bulgarian | 2024 | Bulgarian | V, T | [Link](https://dipp.math.bas.bg/dipp/article/view/dipp.2024.14.10) |
+| 29 | OVQA: A Dataset for Visual Question Answering and Multimodal Research in Odia Language | 2025 | Odya | V, T | [Link](https://aclanthology.org/2025.indonlp-1.7/) |
+| 30 | Persian in a Court: Benchmarking VLMs In Persian Multi-Modal Tasks | 2025 | Persian | V, T | [Link](https://aclanthology.org/2025.evalmg-1.5/) |
 
 
 ### Fusion Techniques
@@ -120,7 +122,8 @@ Papers exploring different methods of combining multimodal information:
 | 23 | Multimodal Abusive Language Detection in Tamil based on Integrated Approach of Machine Learning and Deep Learning Techniques | 2024 | Tamil | T, Vi, A | [Link](https://aclanthology.org/2024.dravidianlangtech-1.35.pdf) |
 | 24 | Multimodal Sensing for Depression Risk Detection: Integrating Audio, Video, and Text Data | 2024 | Chinese, English | A, Vi, T | [Link](https://www.mdpi.com/1424-8220/24/12/3714) |
 | 25 | Multimodal systems for speech recognition | 2024 | Kazakh | A, V | [Link](https://www.researchgate.net/publication/364253520) |
-
+| 26 | byteSizedLLM@DravidianLangTech 2025 | 2025 | Tamil,  Malayalam | T, V | [Link](https://aclanthology.org/2025.dravidianlangtech-1.14/) |
+| 27 | SentimentFormer: A Transformer-Based Multimodal Fusion Framework for Enhanced Sentiment Analysis of Memes in Under-Resourced Bangla Language | 2025 | Bengali | T, V | [Link](https://www.mdpi.com/2079-9292/14/4/799) |
 
 ### Cross-Modal Transfer
 Papers on transferring knowledge between modalities:
