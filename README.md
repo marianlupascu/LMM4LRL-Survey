@@ -184,7 +184,16 @@ Papers introducing novel model architectures and approaches:
 
 ## Citation
 
-TODO
+If you use this work, please cite:
+
+```bibtex
+@article{lupascu2025large,
+  title={Large Multimodal Models for Low-Resource Languages: A Survey},
+  author={Lupascu, Marian and Rogoz, Ana-Cristina and Stupariu, Mihai Sorin and Ionescu, Radu Tudor},
+  journal={arXiv preprint arXiv:2502.05568},
+  year={2025}
+}
+```
 
 ## Contributing
 
