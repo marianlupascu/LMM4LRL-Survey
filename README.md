@@ -211,19 +211,6 @@ Papers introducing novel model architectures and approaches:
 | 14 | MMaDA: Multimodal Large Diffusion Language Models | 2025 | English, French, German, Spanish, Italian, Portuguese (Brazil), Portuguese (Portugal), Dutch, Danish, Swedish, Norwegian, Finnish, Polish, Czech, Slovak, Hungarian, Romanian, Bulgarian, Greek, Turkish, Croatian, Serbian, Bosnian, Slovenian, Macedonian, Albanian, Lithuanian, Latvian, Estonian, Ukrainian, Russian, Belarusian, Arabic, Hebrew, Persian (Farsi), Hindi, Bengali, Urdu, Tamil, Telugu, Kannada, Malayalam, Marathi, Gujarati, Punjabi, Nepali, Sinhala, Thai, Lao, Khmer, Burmese, Vietnamese, Indonesian, Malay, Filipino (Tagalog), Chinese (Simplified), Chinese (Traditional), Cantonese, Japanese, Korean, Swahili, Zulu, Xhosa, Yoruba, Hausa | V, T | [Link](https://arxiv.org/abs/2505.15809) |
 | 15 | Multimodal Instruction Tuning with Conditional Mixture of LoRA | 2025 | English, French, Spanish, German, Italian, Portuguese, Arabic, Chinese (Simplified and Traditional), Hindi, Japanese, Korean, Indonesian, Thai, Vietnamese, Turkish | V, T | [Link](https://arxiv.org/abs/2402.15896) |
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{lupascu2025large,
-  title={Large Multimodal Models for Low-Resource Languages: A Survey},
-  author={Lupascu, Marian and Rogoz, Ana-Cristina and Stupariu, Mihai Sorin and Ionescu, Radu Tudor},
-  journal={arXiv preprint arXiv:2502.05568},
-  year={2025}
-}
-```
-
 ## Contributing
 
 We welcome contributions to this collection. Please submit a pull request with:
