@@ -15,7 +15,7 @@ The papers in this collection cover various aspects of multimodal approaches for
 
 ## Language Coverage
 
-![Language Coverage](https://github.com/marianlupascu/LMM4LRL-Survey/blob/main/images/Pie_final_2025_v2.png)
+![Language Coverage](images/Pie_final_2025_v2.png)
 
 The collection includes papers covering multiple languages:
 - Hindi (31 papers)
@@ -35,7 +35,7 @@ The collection includes papers covering multiple languages:
 
 ## Modalities Coverage
 
-![Modalities Coverage](https://github.com/marianlupascu/LMM4LRL-Survey/blob/main/images/venn_7.png)
+![Modalities Coverage](images/venn_7.png)
 
 The collection includes papers covering multiple modalities:
 
