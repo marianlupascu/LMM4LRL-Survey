@@ -15,8 +15,6 @@ The papers in this collection cover various aspects of multimodal approaches for
 
 ## Language Coverage
 
-![Language Coverage](images/Pie_final_2025_v2.png)
-
 The collection includes papers covering multiple languages:
 - Hindi (31 papers)
 - Arabic (23 papers)
@@ -34,8 +32,6 @@ The collection includes papers covering multiple languages:
 - (42 languages) Albanian, Armenian, Azerbaijani, Bemba, Brazilian, Burmese, Cebuano, Croatian, Darija, Egyptian, Egyptian Arabic, Estonian, Georgian, Haitian Creole, Halh Mongolian, Irish, Kamba, Khmer, Latin Cuengh, Latvian, Lithuanian, Luo, Macedonian, Malagasy, Maori, Mauritanian, Moroccan, Nepali, Occitan, Palestinian, Punjabi, SEA languages, Saudi, Slovak, Slovenian, Tajik, Umbundu, Waray-Waray, Yemeni, Oriya
 
 ## Modalities Coverage
-
-![Modalities Coverage](images/venn_7.png)
 
 The collection includes papers covering multiple modalities:
 
