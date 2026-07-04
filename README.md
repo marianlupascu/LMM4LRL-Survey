@@ -217,15 +217,15 @@ If you use this work, please cite:
 
 ```bibtex
 @article{LMM4LRLSurvey,
-title = {Large multimodal models for low-resource languages: A survey},
-author = {Marian Lupaşcu and Ana-Cristina Rogoz and Mihai {Sorin Stupariu} and Radu {Tudor Ionescu}},
-journal = {Information Fusion},
-volume = {131},
-pages = {104189},
-year = {2026},
-issn = {1566-2535},
-doi = {https://doi.org/10.1016/j.inffus.2026.104189},
-url = {https://www.sciencedirect.com/science/article/pii/S1566253526000680}
+  title = {Large multimodal models for low-resource languages: A survey},
+  author = {Marian Lupaşcu and Ana-Cristina Rogoz and Mihai {Sorin Stupariu} and Radu {Tudor Ionescu}},
+  journal = {Information Fusion},
+  volume = {131},
+  pages = {104189},
+  year = {2026},
+  issn = {1566-2535},
+  doi = {https://doi.org/10.1016/j.inffus.2026.104189},
+  url = {https://www.sciencedirect.com/science/article/pii/S1566253526000680}
 }
 ```
 
