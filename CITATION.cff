@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this survey or paper list, please cite our Information Fusion paper."
+title: "Large Multimodal Models for Low-Resource Languages: A Survey"
+authors:
+  - {family-names: Lupașcu, given-names: Marian}
+  - {family-names: Rogoz, given-names: Ana-Cristina}
+  - {family-names: Stupariu, given-names: Mihai Sorin}
+  - {family-names: Ionescu, given-names: Radu Tudor}
+repository-code: "https://github.com/marianlupascu/LMM4LRL-Survey"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Large Multimodal Models for Low-Resource Languages: A Survey"
+  authors:
+    - {family-names: Lupașcu, given-names: Marian}
+    - {family-names: Rogoz, given-names: Ana-Cristina}
+    - {family-names: Stupariu, given-names: Mihai Sorin}
+    - {family-names: Ionescu, given-names: Radu Tudor}
+  journal: "Information Fusion"
+  volume: 131
+  start: 104189
+  year: 2026
+  doi: "10.1016/j.inffus.2026.104189"
+  url: "https://arxiv.org/abs/2502.05568"
