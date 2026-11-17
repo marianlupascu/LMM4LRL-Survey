@@ -222,21 +222,21 @@ Papers introducing novel model architectures and approaches:
 
 ## Citation
 
-If you use this work, please cite:
+If you find this survey useful, please consider citing it and giving the repository a ⭐:
 
 ```bibtex
 @article{LMM4LRLSurvey,
-  title = {Large multimodal models for low-resource languages: A survey},
-  author = {Marian Lupaşcu and Ana-Cristina Rogoz and Mihai {Sorin Stupariu} and Radu {Tudor Ionescu}},
+  title   = {Large Multimodal Models for Low-Resource Languages: A Survey},
+  author  = {Lupa\c{s}cu, Marian and Rogoz, Ana-Cristina and Stupariu, Mihai Sorin and Ionescu, Radu Tudor},
   journal = {Information Fusion},
-  volume = {131},
-  pages = {104189},
-  year = {2026},
-  issn = {1566-2535},
-  doi = {https://doi.org/10.1016/j.inffus.2026.104189},
-  url = {https://www.sciencedirect.com/science/article/pii/S1566253526000680}
+  volume  = {131},
+  pages   = {104189},
+  year    = {2026},
+  doi     = {10.1016/j.inffus.2026.104189},
+  url     = {https://www.sciencedirect.com/science/article/pii/S1566253526000680}
 }
 ```
+
 
 ## Contributing
 
