@@ -1,6 +1,15 @@
-# Multimodal Learning for Low-Resource Languages: A Survey
+# Large Multimodal Models for Low-Resource Languages: A Survey
+
+<a href='https://arxiv.org/abs/2502.05568'><img src='https://img.shields.io/badge/arXiv-2502.05568-red'></a>
+<a href='https://doi.org/10.1016/j.inffus.2026.104189'><img src='https://img.shields.io/badge/Information%20Fusion-2026-blue'></a>
+<a href='https://huggingface.co/papers/2502.05568'><img src='https://img.shields.io/badge/%F0%9F%A4%97-Paper%20Page-yellow'></a>
 
 This repository contains a curated collection of research papers focusing on multimodal approaches for low-resource languages. The collection spans from 2018 to 2025, showcasing the evolution and advancement of techniques in this field.
+
+## 🔥 Updates
+
+* **2026-02-02**: Published in [Information Fusion](https://doi.org/10.1016/j.inffus.2026.104189), vol. 131
+* **2025-02-08**: Preprint released on [arXiv](https://arxiv.org/abs/2502.05568)
 
 ## Overview
 
